@@ -1,0 +1,20 @@
+
+service: eg-react-mlab-2020 
+
+provider:
+  name: aws
+  runtime: nodejs12.x
+  stage: dev
+  region: us-east-1
+
+functions:
+  api:
+    handler: index.handler
+    events:
+      - http:
+          path: "{proxy+}"
+          method: any
+          cors: true
+
+plugins:
+  - serverless-offline

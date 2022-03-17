@@ -1,0 +1,168 @@
+{
+  "hg19": {
+    "refGene": "ds153566.mlab.com:53566/hg19_refgene",
+    "gencodeV29": "167.99.7.63:27017/genedata",
+    "gencodeV29Basic": "ds121026.mlab.com:21026/hg19"
+  },
+  "hg38": {
+    "refGene": "ds121026.mlab.com:21026/hg38",
+    "gencodeV29": "ds153566.mlab.com:53566/hg38_gencodev29",
+    "gencodeV29Basic": "ds153566.mlab.com:53566/hg38_gencodev29basic",
+    "Ensembl_GRCh38_94": "ds153566.mlab.com:53566/hg38_ensembl"
+  },
+
+  "panTro5": {
+    "refGene": "ds121026.mlab.com:21026/pantro5"
+  },
+  "mm10": {
+    "refGene": "ds121026.mlab.com:21026/mm10",
+    "gencodeM19": "ds153566.mlab.com:53566/mm10_gencodem19",
+    "gencodeM19Basic": "ds153566.mlab.com:53566/mm10_gencodem19basic"
+  },
+
+  "danRer10": {
+    "refGene": "ds121026.mlab.com:21026/danrer10",
+    "Ensembl_GRCz10_91": "ds153566.mlab.com:53566/danrer10_ensembl"
+  },
+  "rn6": {
+    "refGene": "ds121026.mlab.com:21026/rn6"
+  },
+  "mm9": {
+    "refGene": "ds123181.mlab.com:23181/mm9"
+  },
+  "bosTau8": {
+    "refGene": "ds023074.mlab.com:23074/bostau8"
+  },
+  "araTha1": {
+    "gene": "ds155313.mlab.com:55313/aratha1"
+  },
+  "rheMac8": {
+    "refGene": "ds245927.mlab.com:45927/rhemac8"
+  },
+  "galGal5": {
+    "refGene": "ds231387.mlab.com:31387/galgal5"
+  },
+  "galGal6": {
+    "refGene": "ds261296.mlab.com:61296/galgal6"
+  },
+  "danRer11": {
+    "refGene": "ds263307.mlab.com:63307/danrer11"
+  },
+  "dm6": {
+    "refGene": "ds127429.mlab.com:27429/dm6"
+  },
+  "ce11": {
+    "refGene": "ds255577.mlab.com:55577/ce11"
+  },
+  "aplcal3": {
+    "refGene": "ds263808.mlab.com:63808/aplcal3"
+  },
+  "sacCer3": {
+    "refGene": "ds023500.mlab.com:23500/saccer3_ncbirefseq",
+    "sgdGene": "ds023500.mlab.com:23500/saccer3_sgdgene"
+  },
+  "SARS": {
+    "ncbiGene": "ds163517.mlab.com:63517/sars"
+  },
+  "MERS": {
+    "ncbiGene": "ds213079.mlab.com:13079/mers"
+  },
+  "SARS-CoV-2": {
+    "ncbiGene": "ds163517.mlab.com:63517/ncov2019"
+  },
+  "Ebola": {
+    "ncbiGene": "ds213079.mlab.com:13079/ebola"
+  },
+  "Pfal3D7": {
+    "PlasmoDBGene": "ds151232.mlab.com:51232/pfal3d7"
+  },
+  "Creinhardtii506": {
+    "PhytozomeGene": "ds113636.mlab.com:13636/creinhardtii506"
+  },
+  "panTro6": {
+    "refGene": "ds147079.mlab.com:47079/pantro6"
+  },
+  "calJac3": {
+    "ensGene": "ds151242.mlab.com:51242/caljac3_ensgene",
+    "ncbiGene": "ds151242.mlab.com:51242/caljac3_ncbigene"
+  },
+  "panTro4": {
+    "ensGene": "ds239648.mlab.com:39648/pantro4_ensgene",
+    "refGene": "ds239648.mlab.com:39648/pantro4_refgene"
+  },
+  "nomLeu3": {
+    "ensGene": "ds151242.mlab.com:51242/nomleu3_ensgene"
+  },
+  "gorGor3": {
+    "ensGene": "ds151242.mlab.com:51242/gorfor3_ensgene"
+  },
+  "papAnu2": {
+    "ensGene": "ds343895.mlab.com:43895/papanu2"
+  },
+  "rheMac3": {
+    "refGene": "ds033639.mlab.com:33639/rhemac3_refgene"
+  },
+  "mm39": {
+    "refGene": "ds033639.mlab.com:33639/mm39_refgene"
+  },
+  "hpv16": {
+    "ncbiGene": "ds033639.mlab.com:33639/hpv16_ncbiGene"
+  },
+  "TbruceiTREU927": {
+    "gene": "ds033639.mlab.com:33639/TbruceiTREU927_gene"
+  },
+  "TbruceiLister427": {
+    "gene": "ds033639.mlab.com:33639/TbruceiLister427_gene"
+  },
+  "canFam2": {
+    "refGene": "ds033639.mlab.com:33639/canFam2_refgene"
+  },
+  "canFam3": {
+    "refGene": "ds033639.mlab.com:33639/canFam3_refgene"
+  },
+  "monDom5": {
+    "refGene": "ds033639.mlab.com:33639/monDom5_refgene"
+  },
+  "oryCun2": {
+    "refGene": "ds033639.mlab.com:33639/oryCun2_refgene"
+  },
+  "rheMac2": {
+    "refGene": "ds033639.mlab.com:33639/rheMac2_refgene"
+  },
+  "rn4": {
+    "refGene": "ds033639.mlab.com:33639/rn4_refgene"
+  },
+  "t2t-chm13-v1.1": {
+    "genes": "ds033639.mlab.com:33639/t2t-chm13-v1.1_genes"
+  },
+  "xenTro10": {
+    "ncbiGene": "ds033639.mlab.com:33639/xenTro10_ncbiGene",
+    "refGene": "ds033639.mlab.com:33639/xenTro10_refGene"
+  },
+  "susScr11": {
+    "ncbiGene": "ds033639.mlab.com:33639/susScr11_ncbiGene",
+    "refGene": "ds033639.mlab.com:33639/susScr11_refGene"
+  },
+  "oviAri4": {
+    "ncbiGene": "ds033639.mlab.com:33639/oviAri4_ncbiGene",
+    "refGene": "ds033639.mlab.com:33639/oviAri4_refGene"
+  },
+  "b_chiifu_v3": {
+    "gene": "ds033639.mlab.com:33639/b_chiifu_v3_gene"
+  },
+  "calJac4": {
+    "ncbiGene": "ds033639.mlab.com:33639/calJac4_ncbiGene"
+  },
+  "rheMac10": {
+    "ncbiGene": "ds033639.mlab.com:33639/rheMac10_ncbiGene",
+    "refGene": "ds033639.mlab.com:33639/rheMac10_refGene"
+  },
+  "susScr3": {
+    "ncbiGene": "ds033639.mlab.com:33639/susScr3_ncbiGene",
+    "refGene": "ds033639.mlab.com:33639/susScr3_refGene"
+  },
+  "rn7": {
+    "ncbiGene": "ds033639.mlab.com:33639/rn7_ncbiGene",
+    "refGene": "ds033639.mlab.com:33639/rn7_refGene"
+  }
+}

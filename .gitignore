@@ -1,0 +1,13 @@
+# package directories
+node_modules
+jspm_packages
+
+# Serverless directories
+.serverless
+iam_get_role_policy-_star_-_star_-policy.json
+.yo-repository
+genomeConfig.js
+
+
+b.txt
+mongoUtils.js

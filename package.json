@@ -1,0 +1,24 @@
+{
+  "name": "serverless-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Deepak Purushotham",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.3",
+    "boom": "^7.3.0",
+    "hapi": "^16.6.3",
+    "hapi-lambda": "^0.4.1",
+    "joi": "^10.2.2",
+    "lodash": "^4.17.11",
+    "mongoose": "^5.0.7"
+  },
+  "devDependencies": {
+    "serverless-offline": "^4.9.2"
+  }
+}
